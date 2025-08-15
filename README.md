@@ -44,7 +44,9 @@ This model of bms would not be used in future designs
 ## PCB mounted on simple mobile robot
 ![IMG_0365](https://github.com/ArthorH/ESP8266_JELLYBEAN_CONTROLLER/assets/101933781/fa5a6c7f-f3f3-4ea1-a3cd-ba3d0b119b93)
 ## PCB used in a pneumatic controller during the robotic arena.
-![obraz](https://github.com/user-attachments/assets/3b8358ae-feb6-4e24-8d9f-46ba9b30194e)
+<img width="664" height="322" alt="image" src="https://github.com/user-attachments/assets/62c85519-4302-49c8-a618-cc33d7f5cf4e" />
+
+
 
 ## License
 
